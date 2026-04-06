@@ -1,0 +1,10 @@
+{
+	"name": "drupal/uvalib_drupal_theme_2026",
+	"type": "drupal-theme",
+	"description": "SASS subtheme for Bootstrap Theme.",
+	"homepage": "http://drupal.org/project/uvalib_drupal_theme_2026",
+	"license": "GPL-2.0+",
+	"require": {
+		"drupal/bootstrap": ">=5.1.3"
+	}
+}
